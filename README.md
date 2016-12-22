@@ -8,3 +8,6 @@ https://www.digitalocean.com/community/tutorials/how-to-set-up-ssh-tunneling-on-
 
 ## Strongloop Loopback Framework
 * Preparing for deployment: https://loopback.io/doc/en/lb2/Preparing-for-deployment.html
+
+## Docker
+* Installing on Ubuntu: https://docs.docker.com/engine/installation/linux/ubuntulinux/

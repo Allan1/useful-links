@@ -13,3 +13,4 @@ https://www.digitalocean.com/community/tutorials/how-to-set-up-ssh-tunneling-on-
 * Installing on Ubuntu: https://docs.docker.com/engine/installation/linux/ubuntulinux/
 * MySQL image: https://hub.docker.com/_/mysql/
 * Building an image from a Dockerfile: https://docs.docker.com/engine/tutorials/dockerimages/#/building-an-image-from-a-dockerfile
+* Image for Strongloop Loopback: https://hub.docker.com/r/allanoliveira/loopback/

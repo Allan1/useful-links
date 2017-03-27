@@ -5,6 +5,8 @@ A set of useful contents, such as tutorials, Q&amp;A, etc.
 * Installing MySQL on Ubuntu: https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-14-04
 * Remotely connecting to MySQL via ssh tunnel: https://www.digitalocean.com/community/questions/remotely-connecting-into-mysql-running-on-an-ubuntu-digital-ocean-node-with-jmeter-locally?answer=27096
 https://www.digitalocean.com/community/tutorials/how-to-set-up-ssh-tunneling-on-a-vps
+* Set up domain on Digital Ocean https://www.digitalocean.com/community/tutorials/how-to-set-up-a-host-name-with-digitalocean
+https://www.digitalocean.com/community/tutorials/how-to-point-to-digitalocean-nameservers-from-common-domain-registrars
 
 ## Strongloop Loopback Framework
 * Preparing for deployment: https://loopback.io/doc/en/lb2/Preparing-for-deployment.html

@@ -17,3 +17,5 @@ https://www.digitalocean.com/community/tutorials/how-to-point-to-digitalocean-na
 * MySQL image: https://hub.docker.com/_/mysql/
 * Building an image from a Dockerfile: https://docs.docker.com/engine/tutorials/dockerimages/#/building-an-image-from-a-dockerfile
 * Image for Strongloop Loopback: https://hub.docker.com/r/allanoliveira/loopback/
+* List stopped containers: docker ps --filter "status=exited"
+* Remove stopped containers: docker ps --filter "status=exited"

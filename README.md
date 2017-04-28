@@ -21,4 +21,4 @@ https://www.digitalocean.com/community/tutorials/how-to-point-to-digitalocean-na
 * Remove stopped containers: docker rm $(docker ps --filter "status=exited" -q)
 * Remove unused data: http://stackoverflow.com/questions/32723111/how-to-remove-old-and-unused-docker-images
 * http://stackoverflow.com/questions/24272535/rebuild-container-after-each-change
-* Remove untaged images: docker rmi -f $(docker images | grep "<none>" | awk "{print \$3}")
+* Remove untaged images: docker rmi -f $(docker images | grep "\<none>" | awk "{print \$3}")

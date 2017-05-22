@@ -8,6 +8,7 @@ https://www.digitalocean.com/community/tutorials/how-to-set-up-ssh-tunneling-on-
 * Set up domain on Digital Ocean https://www.digitalocean.com/community/tutorials/how-to-set-up-a-host-name-with-digitalocean
 https://www.digitalocean.com/community/tutorials/how-to-point-to-digitalocean-nameservers-from-common-domain-registrars
 * Swap memory: http://samwize.com/2016/05/19/docker-error-returned-a-non-zero-code-137/
+* Show storage status: df -h
 
 ## Strongloop Loopback Framework
 * Preparing for deployment: https://loopback.io/doc/en/lb2/Preparing-for-deployment.html

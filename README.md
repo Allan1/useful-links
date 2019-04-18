@@ -10,6 +10,9 @@ https://www.digitalocean.com/community/tutorials/how-to-point-to-digitalocean-na
 * Swap memory: http://samwize.com/2016/05/19/docker-error-returned-a-non-zero-code-137/
 * Show storage status: df -h
 
+## API Guidelines
+* Adidas: https://github.com/adidas/api-guidelines
+
 ## Strongloop Loopback Framework
 * Preparing for deployment: https://loopback.io/doc/en/lb2/Preparing-for-deployment.html
 
